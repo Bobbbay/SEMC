@@ -2,7 +2,7 @@
 
 <h1 id="introduction"></h1>
 Space. The Final Frontier. Where man hesitates to go, for it is one of the most dangerous realms that can be found. Not a world, but a multitude of worlds, accessible through only one tool — the space rocket. But tools of great power rely on systems of even more tremendously large strength. These systems are the ones that are created here, at SEMC. The Space Exploration Mission Control organization strives to create powerful tools and services, Open Sourced. 
-
+<hr/>
 <p align="center">
   <a href="#introduction">Introduction</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
