@@ -15,6 +15,7 @@ Space. The Final Frontier. Where man hesitates to go, for it is one of the most 
 We are currently working on deciding multiple aspects of our code - language, tech stack, etc. 
 
 # Join us!
-Want to add to the conversation? Help some people around, or get helped by some people? We coordinate our efforts on Discord! 
+Want to add to the conversation? Help some people around, or get helped by some people? We coordinate our efforts on Discord! Follow our progress on Reddit!
 
-<a href="https://discord.gg/xZ85yy5" align="center"><img height="50" width="50" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmaxcdn.icons8.com%2FShare%2Ficon%2FLogos%2Fdiscord_logo1600.png&f=1&nofb=1"/></a>
+<a href="https://discord.gg/xZ85yy5" align="center"><img height="30" width="30" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmaxcdn.icons8.com%2FShare%2Ficon%2FLogos%2Fdiscord_logo1600.png&f=1&nofb=1"/></a>
+<a href="https://reddit.com/r/SpaceExpMissionCtrl" align="center"><img height="30" width="30" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fexternal-preview.redd.it%2FiDdntscPf-nfWKqzHRGFmhVxZm4hZgaKe5oyFws-yzA.png%3Fwidth%3D720%26auto%3Dwebp%26s%3Dbe9d031a2551b47bcd40ec45feec636d42a32127&f=1&nofb=1"/></a>
